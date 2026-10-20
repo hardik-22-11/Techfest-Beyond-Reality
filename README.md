@@ -2,7 +2,7 @@
 
 A scroll-driven 3D website for Techfest. You don't browse it, you fly through it: a mechanical planet, floating structures, four interactive domain machines, a working reactor, and a core that splits open at the end.
 
-🔗 **Live demo:** [add your GitHub Pages link here]
+🔗 **Live demo:** https://hardik-22-11.github.io/Techfest-Beyond-Reality/
 
 ---
 
